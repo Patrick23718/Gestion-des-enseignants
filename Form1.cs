@@ -16,5 +16,25 @@ namespace GestionDesEnsiengnants
         {
             InitializeComponent();
         }
+
+        private void bunifuPanel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menu_click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello! World");
+        }
+
+        private void bunifuIconButton2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuIconButton2_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
